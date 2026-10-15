@@ -20,7 +20,7 @@ Checked on 2026-10-15. Existing team names, roles, contact addresses, and suppli
 
 ## Editorial choices
 
-- Enrollment-year labels were removed because the site has no maintained enrollment data. Supplied PhD roles remain.
+- PhD years were confirmed by the user on 2026-10-16: Ekaterina Antipushina and Nikita Morozov are PhD-3; Raphael Dering and Elizaveta Cherkasskaya are PhD-2. Member cards use these supplied labels; enrollment dates are not inferred.
 - No portrait was present for Andrey Rudov. His card uses initials instead of a missing image or an invented portrait.
 - Publications are selected work, not a complete bibliography.
 - The website remains in English, matching its original international research audience.
