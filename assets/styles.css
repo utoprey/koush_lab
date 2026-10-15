@@ -170,3 +170,10 @@ img{height:auto}
 .publication-kind{display:inline-block;margin-left:14px;color:var(--muted);font-size:12px;font-weight:400;line-height:1.6}
 @media(max-width:540px){.publication-kind{margin-left:10px;font-size:11px}}
 .news-paper-links{display:flex;flex-wrap:wrap;gap:0 20px}
+/* Talks and public lectures. */
+.section-links{display:flex;flex-wrap:wrap;gap:12px 28px;margin-bottom:42px;font-size:15px}
+.talks-section{margin-bottom:65px}
+.talks-section .section-heading{margin-bottom:30px}
+.talk-item .talk-speakers{font-weight:700;margin-top:10px}
+.talk-item .talk-venue{color:var(--muted);font-size:14px;margin:4px 0 12px}
+@media(max-width:540px){.section-links{margin-bottom:30px}.talks-section{margin-bottom:45px}.talk-item .talk-venue{font-size:13px}}

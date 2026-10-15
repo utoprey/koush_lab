@@ -39,3 +39,13 @@ Checked on 2026-10-15. Existing team names, roles, contact addresses, and suppli
 The personal [publication profile](https://utoprey.github.io/) was used to identify omissions; titles and statuses were checked against primary records above. The bibliography includes 9 selected records: five from 2026 and four from 2025.
 
 User corrections on 2026-10-15 take precedence over the earlier imported author lists: Yury Koush was removed from the displayed authors of Cardiac MRI and TABS. Both Gaston-Breton papers and their related news were removed from the curated laboratory website at the user’s request.
+
+## Talks and outreach (2026-10-16)
+
+- **Ekaterina Antipushina:** the user’s [personal website](https://utoprey.github.io/) lists the NeuroTalk invited talk in April 2026 and DataFest conference talk in March 2025. Titles, dates, and talk types follow that self-maintained profile. Its links supply the [NeuroTalk announcement](https://t.me/itatmisis/1676), [DataFest recording](https://ods.ai/tracks/df25-med-data/blocks/a05f3536-aa89-4535-9ac4-1514a791a00a), and [DataFest slides](https://storage.yandexcloud.net/ds-ods/files/content/2025/07/02/4b09cb1bb81a/Екатерина%20Антипушина.pdf).
+- **Elizaveta Cherkasskaya and Nikita Morozov:** the [Skoltech Mental Health Day programme](https://events.skoltech.ru/mental-health-day) identifies both speakers for “Assessment of Personal Space Using VR Technologies” on 25 March 2026. The programme and speaker list were checked directly.
+- **Elizaveta Cherkasskaya:** the [Second Wind teachers’ conference programme](https://skeducation.sk.ru/vd2026) lists her workshop “Формирование детского мозга: нейробиологический взгляд на норму и трудности развития” on 19 June 2026. The website uses an English translation of the title. No recording was listed in that programme.
+
+**T-Sync Conf:** the user supplied the Skoltech report, verified against [Skoltech’s official post](https://t.me/skoltech_daily/6966), published 11 February 2026. It identifies Yury Koush, Elizaveta Cherkasskaya, and Nikita Morozov as presenters of the VR/eye-tracking cognitive-assessment platform. The [conference production agency’s case study](https://now-agency.ru/t/) dates the event to 7 February 2026; the [conference website](https://t-syncconf.ru/) is linked by Skoltech. This entry is explicitly a demonstration, rather than a formal lecture.
+
+Talks are collected in `news/#talks`, with links from Home and the relevant member profiles. Only the two entries listed under invited talks/presentations on the personal site were imported; posters retain their distinct status on that site.

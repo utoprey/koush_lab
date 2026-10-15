@@ -11,7 +11,7 @@ A static English-language academic website using HTML, CSS, and vanilla JavaScri
 | Page | File | Public path |
 | --- | --- | --- |
 | Home | `index.html` | `/koush_lab/` |
-| News | `news/index.html` | `/koush_lab/news/` |
+| News & Talks | `news/index.html` | `/koush_lab/news/` |
 | Research | `research/index.html` | `/koush_lab/research/` |
 | Members | `members/index.html` | `/koush_lab/members/` |
 | Publications | `publications/index.html` | `/koush_lab/publications/` |
@@ -46,7 +46,7 @@ For a new team member, copy an `article.member-profile` into the appropriate gro
 
 To add a publication, copy an `article.publication` in `publications/index.html`, set `data-year`, and update the initial count in `#publication-status`. Add a filter button for a new year. Verify DOI, authors, venue, and dates against the publisher. Distinguish conference year from proceedings publication year.
 
-News is grouped by year in `news/index.html`. Home includes three selected updates; update those separately when adding recent news. Preserve the Google Search Console verification tag. Add new public pages to `sitemap.xml`.
+News is grouped by year in `news/index.html`. Its `#talks` section lists talks and outreach with speaker links, event dates, and programmes or recordings; keep these separate from publication news. Home features two talks, and member profiles link to their relevant entries. Home includes three selected updates; update those separately when adding recent news. Preserve the Google Search Console verification tag. Add new public pages to `sitemap.xml`.
 
 When updating CSS or JavaScript, change their query version consistently across all pages to avoid stale browser caches.
 
