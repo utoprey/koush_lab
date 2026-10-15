@@ -23,5 +23,8 @@ Checked on 2026-10-15. Existing team names, roles, contact addresses, and suppli
 - Enrollment-year labels were removed because the site has no maintained enrollment data. Supplied PhD roles remain.
 - No portrait was present for Andrey Rudov. His card uses initials instead of a missing image or an invented portrait.
 - Publications are selected work, not a complete bibliography.
-- The network and waveform artwork is conceptual, without experimental metrics or live-data claims.
 - The website remains in English, matching its original international research audience.
+
+## Design reference
+
+- [MIP Lab members page](https://mip.postech.ac.kr/members/), supplied by the user: academic page layout, Lato typography, burgundy headings, separate navigation pages, and portraits alongside profile information. Only the visual organization is used; profiles and facts remain specific to Koush Lab.

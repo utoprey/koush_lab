@@ -4,7 +4,21 @@ The Neuroimaging and Cognitive Neuroscience Laboratory website at Skoltech.
 
 **Live site:** https://utoprey.github.io/koush_lab/
 
-A static English-language website using HTML, CSS, and vanilla JavaScript. No package installation or build step is required. Content and navigation also work without JavaScript; JavaScript adds the mobile menu, publication filters, and current-section indicator.
+A static English-language academic website using HTML, CSS, and vanilla JavaScript. All pages are committed as HTML; no installation or build step is required. Content and navigation also work without JavaScript.
+
+## Pages
+
+| Page | File | Public path |
+| --- | --- | --- |
+| Home | `index.html` | `/koush_lab/` |
+| News | `news/index.html` | `/koush_lab/news/` |
+| Research | `research/index.html` | `/koush_lab/research/` |
+| Members | `members/index.html` | `/koush_lab/members/` |
+| Publications | `publications/index.html` | `/koush_lab/publications/` |
+| Software | `software/index.html` | `/koush_lab/software/` |
+| Contact | `contact/index.html` | `/koush_lab/contact/` |
+
+The design follows the user's [MIP Lab members reference](https://mip.postech.ac.kr/members/): white pages, Lato typography, burgundy headings, and portraits beside profile text. Team details belong to Koush Lab; no degrees or employment history were inferred from the reference.
 
 ## Local preview
 
@@ -14,31 +28,34 @@ From the repository root:
 python3 -m http.server 4173 --bind 127.0.0.1
 ```
 
-Open http://127.0.0.1:4173/.
+Open http://127.0.0.1:4173/ or http://127.0.0.1:4173/members/.
 
 ## Editing
 
-- `index.html`: research, publications, software, team, news, contacts, and search metadata.
-- `assets/styles.css`: responsive layouts, typography, print styles, and reduced-motion support.
-- `assets/site.js`: navigation and publication filters.
-- `assets/team/`: optimized portraits served by the website. Originals are preserved in `images/`.
-- `assets/brain-network.svg`: original conceptual illustration, not an experimental measurement.
-- `assets/social-card.png`: image used when sharing the site.
+- Edit content in the relevant page's `index.html`.
+- `assets/styles.css`: shared typography, responsive layouts, navigation, and print styles.
+- `assets/site.js`: mobile menu, header color on scroll, publication filters, and redirects from previous home-page section links.
+- `assets/team/`: optimized portraits. Originals are preserved in `images/`.
+- `assets/social-card-v2.png`: sharing image.
 - `assets/favicon.svg`: site icon.
-- `CONTENT_SOURCES.md`: sources used to verify publication details and new profile content.
+- `CONTENT_SOURCES.md`: sources for publication and profile details.
 
-To add a publication, copy an `article.publication`, set its `data-year`, and update the initial count in `#publication-status`. For a new year, add a matching filter button. Verify DOI links, author lists, venue names, and dates against the publisher. Distinguish a workshop's conference year from its proceedings publication year.
+Navigation and footers are plain HTML shared across seven files. Update all pages when changing their links. Home-page links use paths such as `members/`; child pages use `../members/`. Each page has its own canonical URL and an `aria-current="page"` navigation link.
 
-For team changes, edit the relevant `article.member` and group count. Use a real supplied portrait or an initials placeholder. Do not infer enrollment years or promotions. Links opening in a new tab must include `rel="noopener noreferrer"`.
+For a new team member, copy an `article.member-profile` into the appropriate group in `members/index.html`. Use a real supplied photo or an initials placeholder. Keep research interests and roles verified; do not infer degrees, enrollment years, or promotions.
 
-News uses `<time datetime="YYYY-MM">`. Older entries live in `details.news-archive`. Update `sitemap.xml` when content changes. Preserve the canonical URL and Google Search Console verification tag.
+To add a publication, copy an `article.publication` in `publications/index.html`, set `data-year`, and update the initial count in `#publication-status`. Add a filter button for a new year. Verify DOI, authors, venue, and dates against the publisher. Distinguish conference year from proceedings publication year.
 
-## Publishing
+News is grouped by year in `news/index.html`. Home includes three selected updates; update those separately when adding recent news. Preserve the Google Search Console verification tag. Add new public pages to `sitemap.xml`.
 
-GitHub Pages deploys automatically from the root of `main`. Commit and push reviewed changes, then verify the Pages build and live URL. Home-page asset paths are relative so the project works under `/koush_lab/`.
+When updating CSS or JavaScript, change their query version consistently across all pages to avoid stale browser caches.
 
-Before publishing, check mobile and desktop layouts, menu keyboard interaction, year filters, archive expansion, images, anchors, and external links. There should be no missing assets or JavaScript console errors. Content should remain readable without JavaScript.
+## Publishing and checks
+
+GitHub Pages deploys automatically from the root of `main`. Commit and push reviewed changes, then verify the build and public URLs.
+
+Before publishing, check all pages at desktop and mobile widths, keyboard navigation, publication filters, images, relative links, and browser errors. Content should remain readable without JavaScript. The members page should use two columns on desktop and one on narrow screens.
 
 ## Fonts and assets
 
-Manrope is bundled locally under the SIL Open Font License; see `assets/OFL-Manrope.txt`. No external font or icon CDN is required. Interface icons and the network illustration are SVG. Original portraits remain the property of their respective owners.
+Lato is bundled locally under the SIL Open Font License; see `assets/OFL-Lato.txt`. The site uses no external font or icon CDN. The brain mark is an original SVG. Original portraits remain the property of their respective owners.

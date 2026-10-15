@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://utoprey.github.io/koush_lab/</loc>
-    <lastmod>2026-10-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>1.0</priority>
-  </url>
+  <url><loc>https://utoprey.github.io/koush_lab/</loc><lastmod>2026-10-15</lastmod></url>
+  <url><loc>https://utoprey.github.io/koush_lab/news/</loc><lastmod>2026-10-15</lastmod></url>
+  <url><loc>https://utoprey.github.io/koush_lab/research/</loc><lastmod>2026-10-15</lastmod></url>
+  <url><loc>https://utoprey.github.io/koush_lab/members/</loc><lastmod>2026-10-15</lastmod></url>
+  <url><loc>https://utoprey.github.io/koush_lab/publications/</loc><lastmod>2026-10-15</lastmod></url>
+  <url><loc>https://utoprey.github.io/koush_lab/software/</loc><lastmod>2026-10-15</lastmod></url>
+  <url><loc>https://utoprey.github.io/koush_lab/contact/</loc><lastmod>2026-10-15</lastmod></url>
 </urlset>
