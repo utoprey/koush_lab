@@ -27,4 +27,15 @@ Checked on 2026-10-15. Existing team names, roles, contact addresses, and suppli
 
 ## Design reference
 
-- [MIP Lab members page](https://mip.postech.ac.kr/members/), supplied by the user: academic page layout, Lato typography, burgundy headings, separate navigation pages, and portraits alongside profile information. Only the visual organization is used; profiles and facts remain specific to Koush Lab.
+- [MIP Lab members page](https://mip.postech.ac.kr/members/), supplied by the user: academic page structure, separate navigation pages, and portraits alongside profile information. The deep blue and teal palette, paired-signal mark, and wordmark are specific to this website; profiles and facts remain specific to Koush Lab.
+
+## Added team publications (2026-10-15)
+
+- **Cardiac MRI / CMRSeg, 2026:** [MICCAI Society record](https://papers.miccai.org/miccai-2026-sat/CMRSeg_042.html). The current title is *An Auditable Geometry Contract for Multi-View Cardiac Magnetic Resonance Imaging Analysis*. Authors: Antipushina, Sukhorukov, Cherkasskaya, Kalimullin, Makarov, Koush. Linked as an accepted satellite-event paper with an open-access manuscript; no pending proceedings DOI was invented.
+- **TABS / FoundUS, 2026:** [MICCAI Society record](https://papers.miccai.org/miccai-2026-sat/FoundUS_039.html). The official record identifies FoundUS and four authors: Sukhorukov, Antipushina, Koush, Makarov. This supersedes the older venue and three-author list on the personal profile.
+- **Inverse OCT / SynthOCT, 2026:** [MICCAI Society record](https://papers.miccai.org/miccai-2026-sat/SynthOCT_001.html). Current title and author order checked against the conference record. Linked as an accepted satellite-event paper with an open-access manuscript.
+- **Brain organoids, iScience 2026:** [PubMed record 42111172](https://pubmed.ncbi.nlm.nih.gov/42111172/), [DOI](https://doi.org/10.1016/j.isci.2026.115714). Online date 2026-04-11; issue 29(5), May 2026. News uses April. Correct title uses “under hypoxia”.
+- **Choroid plexus organoids, 2025:** [publisher-deposited metadata](https://api.crossref.org/works/10.1186/s12987-025-00731-z), [full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC12632103/). Published 2025-11-20 in *Fluids and Barriers of the CNS*, 22, 117.
+- **EEG-to-fMRI neurofeedback, 2025:** [publisher-deposited metadata](https://api.crossref.org/works/10.1101/2025.05.20.654907), [bioRxiv](https://www.biorxiv.org/content/10.1101/2025.05.20.654907v1). Posted 2025-05-26; explicitly labeled as a preprint.
+
+The personal [publication profile](https://utoprey.github.io/) was used to identify omissions; titles, authors, and statuses were checked against primary records above. The bibliography now includes 11 selected records: six from 2026 and five from 2025. News covers the new conference work and organoid papers without claiming the organoid experiments were performed by this laboratory.

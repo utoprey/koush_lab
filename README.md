@@ -18,7 +18,7 @@ A static English-language academic website using HTML, CSS, and vanilla JavaScri
 | Software | `software/index.html` | `/koush_lab/software/` |
 | Contact | `contact/index.html` | `/koush_lab/contact/` |
 
-The design follows the user's [MIP Lab members reference](https://mip.postech.ac.kr/members/): white pages, Lato typography, burgundy headings, and portraits beside profile text. Team details belong to Koush Lab; no degrees or employment history were inferred from the reference.
+The academic directory structure takes inspiration from the user's [MIP Lab members reference](https://mip.postech.ac.kr/members/). Koush Lab uses its own deep blue and teal palette, paired-signal mark, and wordmark. Team details belong to Koush Lab; no degrees or employment history were inferred from the reference.
 
 ## Local preview
 
@@ -36,7 +36,7 @@ Open http://127.0.0.1:4173/ or http://127.0.0.1:4173/members/.
 - `assets/styles.css`: shared typography, responsive layouts, navigation, and print styles.
 - `assets/site.js`: mobile menu, header color on scroll, publication filters, and redirects from previous home-page section links.
 - `assets/team/`: optimized portraits. Originals are preserved in `images/`.
-- `assets/social-card-v2.png`: sharing image.
+- `assets/social-card-v3.png`: sharing image.
 - `assets/favicon.svg`: site icon.
 - `CONTENT_SOURCES.md`: sources for publication and profile details.
 
@@ -58,4 +58,4 @@ Before publishing, check all pages at desktop and mobile widths, keyboard naviga
 
 ## Fonts and assets
 
-Lato is bundled locally under the SIL Open Font License; see `assets/OFL-Lato.txt`. The site uses no external font or icon CDN. The brain mark is an original SVG. Original portraits remain the property of their respective owners.
+Lato is bundled locally under the SIL Open Font License; see `assets/OFL-Lato.txt`. The site uses no external font or icon CDN. The paired-signal mark is an original SVG. Original portraits remain the property of their respective owners.
