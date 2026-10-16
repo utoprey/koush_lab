@@ -10,6 +10,8 @@ Checked on 2026-10-15. Existing team names, roles, contact addresses, and suppli
 - [pyOpenNFT](https://github.com/OpenNFT/pyOpenNFT) and the MICCAI paper below: Python implementation, modular processing, EEG-informed prediction.
 - [Raphael Dering's self-maintained research profile](https://www.researchgate.net/profile/Raphael-Dering): human genetics, applied AI, and functional neuroimaging replace the original `Add text` placeholder. [ORCID](https://orcid.org/0009-0003-6341-1528) confirms his Skoltech affiliation.
 
+- **Larisa Pozniak:** name, PhD-1 status, Skoltech email, M/EEG neuroimaging and source reconstruction interests, [ResearchGate link](https://www.researchgate.net/profile/Larisa-Pozniak), and portrait were supplied by the user on 2026-10-16. The portrait is preserved in `images/Larisa_Pozniak.jpeg` and used in `assets/team/larisa-pozniak.jpg`; CSS frames the face without changing the photograph.
+
 ## Selected publications
 
 - **Stroke, 2026:** [DOI](https://doi.org/10.1161/STROKEAHA.125.054877), [publisher-deposited Crossref metadata](https://api.crossref.org/works/10.1161/STROKEAHA.125.054877). Online publication is 2026-04-10; the journal issue is June 2026, used for the news item. The original February date preceded publication and was corrected. The site describes a feasibility study without claiming established clinical efficacy.

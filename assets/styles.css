@@ -69,6 +69,9 @@ img{height:auto}
 .member-photo.elizaveta-photo{object-position:50% 25%}
 .member-photo.raphael-photo{object-position:50% 40%}
 .member-initials{display:grid;place-items:center;background:#f2f2f2;color:#777;font-size:44px;font-weight:300;letter-spacing:1px}
+.portrait-frame{overflow:hidden}
+.portrait-frame img{width:100%;height:100%;object-fit:cover}
+.larisa-photo img{transform:scale(1.6);transform-origin:75% 35%}
 .member-info{min-width:0}
 .member-name{font-size:24px;font-weight:400;color:var(--accent);margin:9px 0 16px;line-height:1.35;overflow-wrap:anywhere}
 .member-role{font-size:16px;font-weight:700;margin-bottom:20px;line-height:1.5}
