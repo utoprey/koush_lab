@@ -25,7 +25,7 @@ Checked on 2026-10-15. Existing team names, roles, contact addresses, and suppli
 - PhD years were confirmed by the user on 2026-10-16: Ekaterina Antipushina and Nikita Morozov are PhD-3; Raphael Dering and Elizaveta Cherkasskaya are PhD-2. Member cards use these supplied labels; enrollment dates are not inferred.
 - No portrait was present for Andrey Rudov. His card uses initials instead of a missing image or an invented portrait.
 - Publications are selected work, not a complete bibliography.
-- The website remains in English, matching its original international research audience.
+- English is the default language. A complete Russian version was added at the user’s request on 2026-10-16. Scientific publication titles, bibliography author lists, and venues retain their original form; profiles, research descriptions, news, talks, navigation, metadata, and accessibility labels are translated. User-supplied PhD years remain unchanged.
 
 ## Design reference
 
@@ -51,3 +51,7 @@ User corrections on 2026-10-15 take precedence over the earlier imported author 
 **T-Sync Conf:** the user supplied the Skoltech report, verified against [Skoltech’s official post](https://t.me/skoltech_daily/6966), published 11 February 2026. It identifies Yury Koush, Elizaveta Cherkasskaya, and Nikita Morozov as presenters of the VR/eye-tracking cognitive-assessment platform. The [conference production agency’s case study](https://now-agency.ru/t/) dates the event to 7 February 2026; the [conference website](https://t-syncconf.ru/) is linked by Skoltech. This entry is explicitly a demonstration, rather than a formal lecture.
 
 Talks are collected in `news/#talks`, with links from Home and the relevant member profiles. Only the two entries listed under invited talks/presentations on the personal site were imported; posters retain their distinct status on that site.
+
+## Russian language and fonts (2026-10-16)
+
+Russian copy is a translation of the maintained English pages and the user-supplied team details. Names in publication citations retain their original form. The Cyrillic Lato subsets use the [Google Fonts Lato source files](https://github.com/google/fonts/tree/main/ofl/lato), distributed under the existing SIL Open Font License in `assets/OFL-Lato.txt`. They are local WOFF2 assets; no third-party font request is made by the website.

@@ -1,10 +1,101 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://utoprey.github.io/koush_lab/</loc><lastmod>2026-10-15</lastmod></url>
-  <url><loc>https://utoprey.github.io/koush_lab/news/</loc><lastmod>2026-10-15</lastmod></url>
-  <url><loc>https://utoprey.github.io/koush_lab/research/</loc><lastmod>2026-10-15</lastmod></url>
-  <url><loc>https://utoprey.github.io/koush_lab/members/</loc><lastmod>2026-10-15</lastmod></url>
-  <url><loc>https://utoprey.github.io/koush_lab/publications/</loc><lastmod>2026-10-15</lastmod></url>
-  <url><loc>https://utoprey.github.io/koush_lab/software/</loc><lastmod>2026-10-15</lastmod></url>
-  <url><loc>https://utoprey.github.io/koush_lab/contact/</loc><lastmod>2026-10-15</lastmod></url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://utoprey.github.io/koush_lab/</loc>
+    <lastmod>2026-10-16</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://utoprey.github.io/koush_lab/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://utoprey.github.io/koush_lab/ru/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://utoprey.github.io/koush_lab/" />
+  </url>
+  <url>
+    <loc>https://utoprey.github.io/koush_lab/news/</loc>
+    <lastmod>2026-10-16</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://utoprey.github.io/koush_lab/news/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://utoprey.github.io/koush_lab/ru/news/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://utoprey.github.io/koush_lab/news/" />
+  </url>
+  <url>
+    <loc>https://utoprey.github.io/koush_lab/research/</loc>
+    <lastmod>2026-10-16</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://utoprey.github.io/koush_lab/research/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://utoprey.github.io/koush_lab/ru/research/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://utoprey.github.io/koush_lab/research/" />
+  </url>
+  <url>
+    <loc>https://utoprey.github.io/koush_lab/members/</loc>
+    <lastmod>2026-10-16</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://utoprey.github.io/koush_lab/members/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://utoprey.github.io/koush_lab/ru/members/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://utoprey.github.io/koush_lab/members/" />
+  </url>
+  <url>
+    <loc>https://utoprey.github.io/koush_lab/publications/</loc>
+    <lastmod>2026-10-16</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://utoprey.github.io/koush_lab/publications/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://utoprey.github.io/koush_lab/ru/publications/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://utoprey.github.io/koush_lab/publications/" />
+  </url>
+  <url>
+    <loc>https://utoprey.github.io/koush_lab/software/</loc>
+    <lastmod>2026-10-16</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://utoprey.github.io/koush_lab/software/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://utoprey.github.io/koush_lab/ru/software/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://utoprey.github.io/koush_lab/software/" />
+  </url>
+  <url>
+    <loc>https://utoprey.github.io/koush_lab/contact/</loc>
+    <lastmod>2026-10-16</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://utoprey.github.io/koush_lab/contact/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://utoprey.github.io/koush_lab/ru/contact/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://utoprey.github.io/koush_lab/contact/" />
+  </url>
+  <url>
+    <loc>https://utoprey.github.io/koush_lab/ru/</loc>
+    <lastmod>2026-10-16</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://utoprey.github.io/koush_lab/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://utoprey.github.io/koush_lab/ru/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://utoprey.github.io/koush_lab/" />
+  </url>
+  <url>
+    <loc>https://utoprey.github.io/koush_lab/ru/news/</loc>
+    <lastmod>2026-10-16</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://utoprey.github.io/koush_lab/news/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://utoprey.github.io/koush_lab/ru/news/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://utoprey.github.io/koush_lab/news/" />
+  </url>
+  <url>
+    <loc>https://utoprey.github.io/koush_lab/ru/research/</loc>
+    <lastmod>2026-10-16</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://utoprey.github.io/koush_lab/research/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://utoprey.github.io/koush_lab/ru/research/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://utoprey.github.io/koush_lab/research/" />
+  </url>
+  <url>
+    <loc>https://utoprey.github.io/koush_lab/ru/members/</loc>
+    <lastmod>2026-10-16</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://utoprey.github.io/koush_lab/members/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://utoprey.github.io/koush_lab/ru/members/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://utoprey.github.io/koush_lab/members/" />
+  </url>
+  <url>
+    <loc>https://utoprey.github.io/koush_lab/ru/publications/</loc>
+    <lastmod>2026-10-16</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://utoprey.github.io/koush_lab/publications/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://utoprey.github.io/koush_lab/ru/publications/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://utoprey.github.io/koush_lab/publications/" />
+  </url>
+  <url>
+    <loc>https://utoprey.github.io/koush_lab/ru/software/</loc>
+    <lastmod>2026-10-16</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://utoprey.github.io/koush_lab/software/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://utoprey.github.io/koush_lab/ru/software/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://utoprey.github.io/koush_lab/software/" />
+  </url>
+  <url>
+    <loc>https://utoprey.github.io/koush_lab/ru/contact/</loc>
+    <lastmod>2026-10-16</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://utoprey.github.io/koush_lab/contact/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://utoprey.github.io/koush_lab/ru/contact/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://utoprey.github.io/koush_lab/contact/" />
+  </url>
 </urlset>
